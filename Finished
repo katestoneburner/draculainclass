@@ -4,6 +4,8 @@
 <title>Dracula</title>
 </head>
 
+<img src="cover-image.jpg" alt="Book Cover" />
+
 <body>
   <section class="frontmatter">
 <p>DRACULA</p>
